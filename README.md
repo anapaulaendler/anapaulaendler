@@ -12,7 +12,7 @@ software engineering undergraduate<br>
 
 <p align="center">
 ✿  <strong>learning & interests: </strong> mobile development,<br>
-front-end development, cybersecurity <img src="https://tomomi.neocities.org/divider/20.gif" alt="🍒"> ꜝ ˚₊·
+front-end development, cybersecurity  ꜝ ˚₊·
 </p>
 
 <p align="center">
