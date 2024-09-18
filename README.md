@@ -4,7 +4,7 @@
 
 <p align="center">
 software engineering undergraduate<br>
-:¨ ·.· ¨: brazil based ✧ 19 years old
+:¨ ·.· ¨: based in brasil ✧ 19 years old
 
 <p align="center">
 <img src="https://tomomi.neocities.org/divider/div14.gif" alt="🍒">
